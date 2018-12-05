@@ -4,13 +4,13 @@ import { RECEIVE_TODO } from '../actions/todo_actions';
 const initialState = {
   1: {
     id: 1,
-    title: 'wash car',
+    title: 'Wash Car',
     body: 'with soap',
     done: false
   },
   2: {
     id: 2,
-    title: 'wash dog',
+    title: 'Wash Dog',
     body: 'with shampoo',
     done: true
   },

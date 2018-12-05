@@ -8,7 +8,7 @@ class TodoListItem extends React.Component {
   render(){
     return (
       <li>
-        {this.props.todo.title}
+        Title: {this.props.todo.title}
       </li>
     );
   }
